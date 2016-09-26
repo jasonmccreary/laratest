@@ -1,8 +1,13 @@
 <?php
 
-use App\Server;
+namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
+use App\Server;
+use Illuminate\Support\Facades\Auth;
+
+
+
 
 class ApiServerController extends Controller
 {
