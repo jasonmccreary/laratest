@@ -1,4 +1,5 @@
 <?php
 
-class CustomerController extends \BaseController {
+class CustomerController extends \BaseController
+{
 }
