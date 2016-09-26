@@ -2,7 +2,7 @@
 
 use App\Server;
 
-class ApiServerController extends \BaseController
+class ApiServerController extends Controller
 {
     public function active()
     {
